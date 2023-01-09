@@ -141,7 +141,7 @@ function kometa.new(isdark, gprojectName, thinProject)
     local theme = kometa.theme
     local projectName = false
     local thinMenu = false
-    local ContainerSize = UDim2.new(0, 550, 0, 400)
+    local ContainerSize = UDim2.new(0, 752,0, 534)
 
     if isdark == true then
         theme = kometa.dark_theme
